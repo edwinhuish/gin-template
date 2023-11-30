@@ -1,0 +1,5 @@
+.history
+config.yaml
+/meixun-proxy-go*
+/*.exe
+/cache
